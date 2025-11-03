@@ -1,5 +1,12 @@
 # AI Agent Prototype: Email Triage
 
+> **Intern Application Details:**
+> -   **Name:** [Ravi Kumar]
+> -   **University:** [IIT Kanpur]
+> -   **Department:** [Economics]
+
+---
+
 This project is an AI agent that can reason, plan, and execute the task of triaging an email inbox. It uses a fine-tuned Gemma 2B model (using LoRA) as a specialist tool for classification.
 
 ## Project Structure
