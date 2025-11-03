@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+evaluate
+scikit-learn
+google-generativeai

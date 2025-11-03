@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+ENV/
+
+# Model Files
+email-classifier-gemma-2b-lora-final/
+my_model.zip
+email-classifier-gemma-2b-lora/
+
+# Large Datasets
+dataset.json
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Credentials
+*.env
